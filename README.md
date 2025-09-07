@@ -20,7 +20,7 @@
   - 使用MQTT协议与华为云IoTDA平台通信
   - 定时上报传感器数据到云平台
   - 接收并处理来自云平台的控制指令
-  ![alt text](image.png)
+  ![alt text](other/image.png)
 
 ## 技术特点
 
@@ -35,9 +35,9 @@
 - **设备层**：ESP32开发板连接各类传感器和执行器
 - **通信层**：通过MQTT协议连接华为云IoTDA平台
 - **应用层**：采用Node-RED实现可视化控制界面和数据处理
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](other/image-1.png)
+![alt text](other/image-2.png)
+![alt text](other/image-3.png)
 - **网络穿透**：使用cpolar实现内网穿透，使外部网络可以访问本地Node-RED服务
 
 
