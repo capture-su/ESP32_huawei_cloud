@@ -1,4 +1,4 @@
-## 项目名称： ESP32 + MQTT + HTTP
+# ESP32 + MQTT + HTTP
 ## 项目作者： capture-su
 ## 项目概述
 
